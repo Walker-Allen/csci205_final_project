@@ -1,0 +1,4 @@
+rootProject.name = 'csci205_final_project'
+include 'src:main:Recources'
+findProject(':src:main:Recources')?.name = 'Recources'
+
